@@ -1,4 +1,8 @@
-# ⭐ Hi, I'm Tamara Ortega!
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+![Tamara Ortega Banner](https://github.com/tamaraortega/tamaraortega/blob/main/assets/Tamara%20Ortega.png)
+
+# Hi, I'm Tamara!
+
 # 🏄‍♀️ Get to know me 
 🌺 From a small beach town to building waves in web3. <br>🐚 Studying IT Management at ITCR.<br>🏝️ I’m passionate about technology, always eager to connect and keep learning.<br>🎹 Outside of tech, I express myself through piano and creativity.<br>🌊 Always open for a conversation, feel free to reach out! 
 
